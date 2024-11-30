@@ -120,7 +120,7 @@ const page = () => {
                         CM
                        </button>
                        </div>
-                       <div className="grid grid-cols-6 gap-4 mt-4 bg-gray-300 text-white">
+                       <div className="grid grid-cols-6 gap-4 mt-4 text-white">
                              {/* Botones de tallas */}
                            {['6', '6.5', '7', '7.5', '8', '8.5', '9', '9.5', '10', '10.5', '11', '11.5'].map((size) => (
                                  <button
